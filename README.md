@@ -10,7 +10,7 @@
 
 Microservices is an architectural style where an application is built as a collection of small, independent services. Each service focuses on a specific business function and operates on its own. These services communicate with each other through well-defined APIs, making the system more modular and easier to manage.
 
-#### Project Overview
+#### Project Overview.
 
 - **Project Name**: 11 Microservice CI/CD Pipeline
 - **Deployment Platform**: AWS EKS (Elastic Kubernetes Service)
